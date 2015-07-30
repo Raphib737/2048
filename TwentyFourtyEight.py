@@ -1,4 +1,4 @@
-__author__ = 'Raphy'
+__author__ = 'Raphael Baysa'
 import numpy as np
 from numpy import random
 
